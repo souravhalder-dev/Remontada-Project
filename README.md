@@ -1,4 +1,4 @@
-# Remontada Workspace — Next.js Assessment Task
+# Remontada Workspace 
 
 A modern, responsive, and polished e-commerce and catalog web application built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Firebase Authentication**.
 
