@@ -6,7 +6,7 @@ Remontada Workspace curates precision workspace essentials, ergonomic furniture,
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 ### 1. Landing Page (`/`) — 7 Complete Sections
 1. **Sticky Responsive Navbar**:
@@ -101,7 +101,7 @@ Remontada Workspace curates precision workspace essentials, ergonomic furniture,
 
 ---
 
-## 📁 Route Summary
+##  Route Summary
 
 | Route | Type | Description |
 |---|---|---|
@@ -116,7 +116,7 @@ Remontada Workspace curates precision workspace essentials, ergonomic furniture,
 
 ---
 
-## 🚀 Setup & Installation
+##  Setup & Installation
 
 ### 1. Clone the repository
 ```bash
@@ -167,7 +167,7 @@ npm run lint
 
 ---
 
-## 🌐 Deployment (Vercel)
+##  Deployment (Vercel)
 
 1. Push your repository to GitHub.
 2. Import the repository on [Vercel](https://vercel.com).
